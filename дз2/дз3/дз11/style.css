@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+article {
+    width: 580px;
+    margin: 60px auto;
+    padding: 5px 40px;
+    border-left: 2px solid #e8e8e8;
+}
+
+pre {
+    display: block;
+    background-color: #f6f5f3;
+    border: 1px solid #e8e8e8;
+    padding: 10px 5px;
+    box-shadow: 0 0 1px 0 #e8e8e8;
+}
+
+code {
+    display: inline-block;
+    background-color: #f6f5f3;
+    border: 1px solid #e8e8e8;
+    padding: 5px;
+    box-shadow: 0 0 1px 0 #e8e8e8;
+    border-radius: 2px;
+}
+
+.blue {
+    color: dodgerblue;
+}
+
+.italic {
+    font-style: italic;
+    color: #adacb4;
+}
+.overflow {
+overflow-x: scroll;
+}

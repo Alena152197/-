@@ -1,0 +1,39 @@
+body {
+    font-size: 14px;
+}
+
+h1 {
+    font-size: 18px;
+    margin-left: 40px;
+    margin-bottom: 0;
+}
+
+div {
+    width: 450px;
+    height: 200px;
+    margin: 60px auto;
+    background: url("https://img-fotki.yandex.ru/get/9150/136164467.13/0_11ce34_3711058f_orig.png");
+    padding: 40px 50px;
+}
+
+ol {
+    li::before {
+        content: counter(item)")";
+        counter-increment: item;
+    }
+}
+
+p {
+    display: inline-block;
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 0.8em;
+}
+
+span {
+    font-style: italic;
+}

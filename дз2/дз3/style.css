@@ -1,0 +1,13 @@
+body {
+    background-image: url(https://img.freepik.com/free-photo/beautiful-view-sunset-sea_23-2148019892.jpg?t=st=1710262789~exp=1710266389~hmac=a18b86df530d7300498380f00ed2d6d5a1aebe73cf5bd99b235e6154636b0160&w=900);
+}
+
+.block {
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -75px 0 0 -100px;
+    background-color: blue;
+}
