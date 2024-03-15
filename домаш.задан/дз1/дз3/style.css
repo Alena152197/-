@@ -1,0 +1,11 @@
+.card {
+    width: 50px;
+    height: 30px;
+    border: 1px solid #ece6e6fb;
+    text-align: center;
+    font-size: 25px;
+    margin: 1,5px;
+    display: inline-block;
+    background-color: rgb(207, 203, 203);
+}
+
